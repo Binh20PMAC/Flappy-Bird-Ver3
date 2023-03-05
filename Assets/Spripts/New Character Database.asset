@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 764e771e4aacab34dac264356e11265f, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Red Bird
+    characterSprite: {fileID: -1958253315, guid: a1f73d609fd900947b0084b792307052, type: 3}
+    characterAnim: {fileID: 9100000, guid: 0ba4a0cdd6ba31c48ac9d6dc441458fe, type: 2}
+  - characterName: Yellow Bird
+    characterSprite: {fileID: -1785854721, guid: a1f73d609fd900947b0084b792307052, type: 3}
+    characterAnim: {fileID: 9100000, guid: fb49109ed379c28488cb333f604b4a24, type: 2}
+  - characterName: Blue Bird
+    characterSprite: {fileID: -516675769, guid: a1f73d609fd900947b0084b792307052, type: 3}
+    characterAnim: {fileID: 9100000, guid: 81acd27e08d9f634aa68412316c6c26d, type: 2}
